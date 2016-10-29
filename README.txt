@@ -22,6 +22,10 @@ ab.find_person_by_name('first','second')
 ab.find_person_by_email('second@gmail.com')
 
 
+Running tests:
+python tests.py
+
+
 Implementing find person by any substring of email:
 
 If we are limited to a library we can implement this search using multiple ways:
